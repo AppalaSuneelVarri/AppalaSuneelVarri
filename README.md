@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suneel Varri</h1>
 <h3 align="center">I am a dynamic and skilled professional with a robust background in software development and automation. With a strong foundation in Computer Science and valuable experience at Infosys Technologies, I've honed my expertise in a range of programming languages, databases, and cloud technologies. My passion for innovation led me to pursue a Master's in Computer and Information Sciences at the University of Texas, where I'm gaining advanced knowledge in AI, data analysis, and algorithm design. My goal is to explore new avenues and harness the power of cutting-edge technologies to solve complex business challenges. With my experience in delivering automation solutions, optimizing processes, and ensuring seamless data flow, I'm well-prepared to bring innovative solutions to the corporate world. My commitment to continuous learning and adaptability makes me a valuable asset in the ever-evolving tech landscape.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appalasuneelvarri&label=Profile%20views&color=0e75b6&style=flat" alt="appalasuneelvarri" /> </p>
 
