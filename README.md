@@ -1,18 +1,26 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://appalasuneelvarri.io)
-<h1 align="center">Hi 👋, I'm Suneel Varri</h1>
-<h3 align="center">I am a dynamic and skilled professional with a robust background in software development and automation. With a strong foundation in Computer Science and valuable experience at Infosys Technologies, I've honed my expertise in a range of programming languages, databases, and cloud technologies. My passion for innovation led me to pursue a Master's in Computer and Information Sciences at the University of Texas, where I'm gaining advanced knowledge in AI, data analysis, and algorithm design. My goal is to explore new avenues and harness the power of cutting-edge technologies to solve complex business challenges. With my experience in delivering automation solutions, optimizing processes, and ensuring seamless data flow, I'm well-prepared to bring innovative solutions to the corporate world. My commitment to continuous learning and adaptability makes me a valuable asset in the ever-evolving tech landscape.</h3>
+<h1 align="center">Hey, software samurai! Let's wield our code swords and conquer new realms!  I'm SUNEEL VARRI</h1>
+<h3 align="center">I am your go-to tech enthusiast with a knack for blending innovation with precision. Currently honing my skills in Computer and Information Sciences at the University of Texas, Arlington, I've journeyed from the serene landscapes of Vishakhapatnam to bustling tech hubs of Hyderabad to the , India.  I excel in a diverse array of technologies, including C, C++, C#, JavaScript, React, Python, Angular, and more. But what really gets my heart racing? 🚀 I'm passionate about diving into Artificial Intelligence, Machine Learning and Algorithms.  So, whether it's crafting elegant code or exploring the latest tech frontiers, count me in! Let's team up and turn our coding dreams into reality! 💻✨Armed with a passion for precision and a dash of innovation, I'm on a mission to master the art of software sorcery at the University of Texas, Arlington and bring a blend of traditional wisdom and cutting-edge expertise to the table. Let's join forces and code our way to greatness! 💻🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appalasuneelvarri&label=Profile%20views&color=0e75b6&style=flat" alt="appalasuneelvarri" /> </p>
 
-- 🔭 I’m currently working as a Research Assistant at CAPPA, specializing in web scraping and web design for the Arlington non-profits organizations. [Non-Profit Arlington Research](https://nparlington-research.uta.edu/blog/)
+- 🔭 I’m currently wielding my skills as a Research Assistant at the College of Architecture, Planning and Public Affairs (CAPPA) at the University of Texas, Arlington, specializing in web scraping and web design for non-profit organizations in Arlington. You can check on the website [Non-Profit Arlington Research](https://nparlington-research.uta.edu)
 
-- 💬 Ask me about **.Net Framework, DevOps, JavaScript, MySQL**
+- I'm open to collaborating on a wide range of projects, including but not limited to:  Web scraping and web design for non-profit organizations. Automation of data refresh and report generation using SSIS and MySQL. Integration of cloud-hosted applications with external interfaces using RESTful API calls. Development of web applications using ASP.Net Core and MySQL. Implementing automation workflows and DevOps practices for code repositories and CI/CD pipelines.
 
-- 📫 How to reach me **appalasuneelvarri@gmail.com**
+- I'm actively seeking opportunities or full-time employment or internships where I can leverage my experience and skills to contribute effectively. With a background in technology analysis, software development, and system engineering at Infosys Technologies, combined with my current role as a Research Assistant specializing in web scraping and design, I'm eager to bring my expertise to projects related to automation, data analysis, web development, and more. I'm excited to collaborate with teams that value innovation and are passionate about making a positive impact in the tech industry. Let's connect and explore how I can contribute to your team's success!
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mwc9O44roJztskalz07F8hdk1g-BS1Oc/view?usp=drive_link](https://drive.google.com/file/d/1Mwc9O44roJztskalz07F8hdk1g-BS1Oc/view?usp=drive_link)
+- 🌱 I’m currently expanding my knowledge in various areas to stay ahead in the rapidly evolving tech landscape. I'm diving deeper into topics such as advanced machine learning algorithms, cloud technologies, and DevOps practices. Additionally, I'm exploring frameworks and tools in web development, such as React and Django, to enhance my skill set and stay versatile in today's dynamic tech environment. I believe in the importance of lifelong learning and am excited to continue growing my expertise in these areas while contributing to innovative projects.
+
+- 💬 Ask me about **my experiences in software development using technologies like C, C++, C#, JavaScript, React, Python, Angular, and more. Additionally, feel free to inquire about my proficiency in databases such as Oracle, MySQL, and MongoDB, as well as my expertise in networking with REST APIs and Web API. If you're interested in cloud technologies and DevOps practices, I'm here to discuss my skills with Git and DevOps tools. And don't hesitate to ask about my experience with enterprise tools like Django, Postman, Tableau, SSIS, and Scrapy, where I can share insights from my projects and contributions. Let's dive into a conversation about these technologies and how they've shaped my journey in the world of technology and computer science!**
+
+- 📫 Connect with me through the digital realms! Drop me a line via email at **appalasuneelvarri@gmail.com**. Let's start a conversation about collaboration, innovation, or anything tech-related!
+
+- 👨‍💻 All of my projects are available [here](https://github.com/AppalaSuneelVarri?tab=repositories)
+
+- 📄 Know about my experiences through my [RESUME](https://drive.google.com/file/d/1Mwc9O44roJztskalz07F8hdk1g-BS1Oc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=appalasuneelvarri&show_icons=true&locale=en&layout=compact" alt="appalasuneelvarri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=appalasuneelvarri&show_icons=true&locale=en" alt="appalasuneelvarri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=appalasuneelvarri&" alt="appalasuneelvarri" /></p>
