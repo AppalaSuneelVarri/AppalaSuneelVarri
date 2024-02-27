@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/AppalaSuneelVarri?tab=repositories)
 
-- 📄 Know about my experiences through my [RESUME](https://drive.google.com/file/d/1Mwc9O44roJztskalz07F8hdk1g-BS1Oc/view?usp=drive_link)
+- 📄 Know about my experiences through my [RESUME](https://drive.google.com/file/d/1xYZMqLU4GJrcrDZNSACX1nyC-LczdsDz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
